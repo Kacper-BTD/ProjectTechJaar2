@@ -1,0 +1,82 @@
+* {
+  padding: 0;
+  margin: 0;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+   
+}
+/*-----HOOFDTITELS-----*/
+h1,
+h2,
+li {
+  text-align: center;
+}
+h1 {
+  padding-bottom: 1em;
+}
+body{
+min-height: 80vh;
+display: flex;
+flex-direction: column;
+}
+/*-----HEADER-----*/
+header nav ul li {
+  font-size: 2.4em;
+  list-style-type: none;
+  background-color: rgb(29, 139, 170);
+  padding: 0.5em 0 0.7em 0;
+}
+/*-----FOOTER-----*/
+footer {
+  background-color: rgb(24, 121, 148);
+  position: sticky;
+  bottom: 0;
+  width: 100%;
+}
+
+footer ul {
+  display: flex;
+  justify-content: center;
+}
+footer li {
+  list-style-type: none;
+  font-size: 1.4em;
+  padding: 0.4em 1.5em 0.4em 1.5em;
+}
+footer a {
+  text-decoration: none;
+  color: rgb(206, 210, 213);
+}
+
+/*----------MAIN----------*/
+main > ul {
+  font-size: 1.4em;
+}
+ 
+
+.homeSectionsWrapper {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding-top: 2em;
+}
+.homeSections {
+  height: 5em;
+  width: 5em;
+  background-color: rgb(47, 128, 151);
+  display: flex;
+  margin: 1em;
+  flex-wrap: wrap;
+  align-content: center;
+  justify-content: center;
+}
+
+.homeSections p {
+  font-size: 12px;
+}
+button {
+  height: 5em;
+  width: 8.5em;
+  display: grid;
+  margin: auto;
+  padding-top: 1.5em;
+}

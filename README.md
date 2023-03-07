@@ -1,1 +1,5 @@
-# ProjectTechJaar2
+# projectTech
+
+#dit is om een readme bij te houden
+
+<p> Tijdens de frontend les hebben wij Visual Studio Code beter onderzocht. Ik heb de themes doorgekeken in de extensions en in de settings de font opties aangepast. Je kan verschillende fonts en fontgroottes kiezen. De theme beslist welke kleurschema je Visual Studio Code gebruikt. Verder vond ik in de settings een knop die een settings.json file opent. In de settings.json file zie ik mijn eerder gekozen instellingen zoals thema, autosave voorkeuren, gebruikte fonts, en veel andere instellingen. Daarna heb ik gekeken naar de meest populaire extensies. Veel hiervan zijn nog niet van toepassing voor mij omdat ik niet met de codetalen heb gewerkt. Maar ik vond er een aantal handige extensies die voor mij bruikbaar zijn. Extensies als 'Auto rename tag' en 'Color highling' helpt mij tijdens het werken in html/css. Extensies voor Visual Studio Code zijn een soort van plugin, die andere gebruikers kunnen maken, die allerlei functies kan hebben. Je leven makkelijker maken, het mooier maken van je code editor, grappige functies en meer. </p>
